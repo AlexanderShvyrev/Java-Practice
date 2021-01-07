@@ -18,7 +18,7 @@ public class Main2 {
             for (String s : result) {
                 System.out.println(s);
             }
-            System.out.println(result);
+//            System.out.println(result);
         } catch (IOException e) {
             e.printStackTrace();
         }
